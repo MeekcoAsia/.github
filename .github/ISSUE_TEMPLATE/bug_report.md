@@ -3,6 +3,7 @@ name: Bug report
 about: Generic feature request issue template
 title: "[StoreName] - "
 labels: bug
+issue type: Bug
 assignees: ''
 
 ---
