@@ -3,7 +3,6 @@ name: Feature request
 about: Generic feature request issue template
 title: "[StoreName] - "
 labels: enhancement
-issue_type: Feature
 assignees: ''
 
 ---
